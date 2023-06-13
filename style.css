@@ -577,12 +577,13 @@ flex-direction: column;
     }
 
     .body h2{
-        width: 90%;
+        width: 86%;
+        font-size: 15px;
     }
 
     .sectionone h2{
-        width: 75%;
-        font-size: 17px;
+        width: 70%;
+        font-size: 15px;
 
     }
 
